@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"\u6B22\u8FCE\u4F7F\u7528 Wrap \u6587\u6863",lang:"zh-CN",frontmatter:{lang:"zh-CN",title:"\u6B22\u8FCE\u4F7F\u7528 Wrap \u6587\u6863",description:"Wrap \u6587\u6863\u4E2D\u6587\u7FFB\u8BD1"},excerpt:"",headers:[{level:2,title:"\u76EE\u5F55",slug:"\u76EE\u5F55",children:[]}],git:{},filePathRelative:"README.md"};export{e as data};
